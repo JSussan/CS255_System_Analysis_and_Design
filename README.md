@@ -1,4 +1,4 @@
-# CS255_System_Analysis_and_Design
+# CS255 System Analysis and Design
 Explore the principles, methods, and techniques used in systems development so that they can create system models using appropriate industry tools.
 
 # Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
